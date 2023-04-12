@@ -3,7 +3,7 @@ Atividades Programação 1
 
 ==================================================================================================================================================
 
-AULA 1 - Básico da estrutura e como upar arquivos.
+# AULA 1 - Básico da estrutura e como upar arquivos.
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -31,7 +31,7 @@ AULA 1 - Básico da estrutura e como upar arquivos.
 
 ==================================================================================================================================================
 
-AULA 2 - Tabelas.
+# AULA 2 - Tabelas.
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -72,7 +72,7 @@ AULA 2 - Tabelas.
 
 ==================================================================================================================================================
 
-AULA 3 - Imagens, Textos, Tabela e Listas Sobre Ariquemes.
+# AULA 3 - Imagens, Textos, Tabela e Listas Sobre Ariquemes.
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -254,7 +254,7 @@ AULA 3 - Imagens, Textos, Tabela e Listas Sobre Ariquemes.
 
 ==================================================================================================================================================
 
-AULA 4 - Upando arquivos de midia (audio e video) para site.
+# AULA 4 - Upando arquivos de midia (audio e video) para site.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -281,7 +281,7 @@ AULA 4 - Upando arquivos de midia (audio e video) para site.
 
 ==================================================================================================================================================
 
-AULA 5 - Formulários com varias funções
+# AULA 5 - Formulários com varias funções
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -408,7 +408,7 @@ h1, h2, p{
 
 ==================================================================================================================================================
 
-AULA 6 - Introdução ao CSS
+# AULA 6 - Introdução ao CSS
 /* Existem 3 formas de incorporar o CSS no HTML
 Ex.:
 - Online (dentro do mesmo bloco) atributo "style" no HMTL;
